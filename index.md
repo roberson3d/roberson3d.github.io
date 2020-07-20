@@ -1,4 +1,4 @@
-## Synapse Game
+## Synapse Games
 
 **Senior Software Engineer** March '14 - present.
 
