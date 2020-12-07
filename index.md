@@ -57,8 +57,9 @@ While working on this game, I've covered several areas developing the camera sys
 Notable Projects: 
 - Tetrapulse: [trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
 - Involuntary Runner: [lets play&rarr;](https://www.youtube.com/watch?v=KcrFayII95E&t=2s)
-- Groovy Tuesday: 
+- Groovy Tuesday 
 
+<!--
 Course load focused on game programming:
 - AI and path-finding
 - Architecture and design patterns
@@ -68,3 +69,4 @@ Course load focused on game programming:
 - Fundamentals of computer systems including: threading, sockets, memory, data structures, and graphics
 
 Engines, frameworks, and libraries: Unity, XNA, GameMaker, OpenGL, WIN32, FBX API
+-->
