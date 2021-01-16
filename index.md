@@ -36,6 +36,19 @@ Spellstone was built off of the technology from Synapse's previous CCG, Tyrant M
 **Tyrant Unleased**: Gritty sci-fi CCG.
 [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
 
+<!--
+## The Amiable
+
+**Co-founder, engineer** June '13 - June '16
+
+### Tetrapulse
+
+**Co-op**
+[trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
+
+While working on this game, I've covered several areas developing the camera system, a plug-in for Xbox controller support, most non-standard shaders, helped with some of the character rigging, various other gameplay scripts, and working on mobile controller support. 
+-->
+
 ## Depaul University
 
 **B.S. Computer Game Development** Spring 2013
@@ -44,3 +57,15 @@ Notable Projects:
 - Tetrapulse: [trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
 - Involuntary Runner: [lets play&rarr;](https://www.youtube.com/watch?v=KcrFayII95E&t=2s)
 - Groovy Tuesday: [letsplay&rarr;](https://www.youtube.com/watch?v=_t5HjwtAUy0)
+
+<!--
+Course load focused on game programming:
+- AI and path-finding
+- Architecture and design patterns
+- Rendering systems
+- Physics
+- Networking for multiplayer games
+- Fundamentals of computer systems including: threading, sockets, memory, data structures, and graphics
+
+Engines, frameworks, and libraries: Unity, XNA, GameMaker, OpenGL, WIN32, FBX API
+-->
