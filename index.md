@@ -1,4 +1,4 @@
-## Synapse Games
+## Synapse Games & Kongregate Inc
 
 **Senior Software Engineer** March '14 - present.
 
@@ -25,20 +25,18 @@ Rift Heroes was the second Synapse project where I was a core engineer. It was a
 
 Spellstone was built off of the technology from Synapse's previous CCG, Tyrant Mobile. I was the main engineering responsible for updating, improving, or rebuilding old systems to work within the new design as well as introducing new features to the game.
 
-### Castaway Cove
+### Other Titles
 
-**Idle clicker with hero collection.**
+**Castaway Cove**: Idle clicker with hero collection.
 [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
 
-I assisted in building new feature and UI implementation.
-
-### Global Assault
-
-**Squad-based RPG.**
+**Global Assault**: Near future military, squad-based RPG.
 [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
 
-I assisted in building new feature and UI implementation.
+**Tyrant Unleased**: Gritty sci-fi CCG.
+[trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
 
+<!--
 ## The Amiable
 
 **Co-founder, engineer** June '13 - June '16
@@ -49,6 +47,7 @@ I assisted in building new feature and UI implementation.
 [trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
 
 While working on this game, I've covered several areas developing the camera system, a plug-in for Xbox controller support, most non-standard shaders, helped with some of the character rigging, various other gameplay scripts, and working on mobile controller support. 
+-->
 
 ## Depaul University
 
@@ -57,7 +56,7 @@ While working on this game, I've covered several areas developing the camera sys
 Notable Projects: 
 - Tetrapulse: [trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
 - Involuntary Runner: [lets play&rarr;](https://www.youtube.com/watch?v=KcrFayII95E&t=2s)
-- Groovy Tuesday 
+- Groovy Tuesday: [letsplay&rarr;](https://www.youtube.com/watch?v=_t5HjwtAUy0)
 
 <!--
 Course load focused on game programming:
