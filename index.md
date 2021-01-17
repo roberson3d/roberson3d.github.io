@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blogging Like a Hacker
+url: /index.html
+---
+
+
 ## Synapse Games & Kongregate Inc
 
 **Senior Software Engineer** March '14 - present.
