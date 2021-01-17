@@ -36,27 +36,25 @@
         </span>
       </header>
 
-      {% if site.show_downloads %}
+      {%- if site.show_downloads -%}
         <section id="downloads">
           <span class="inner">
-            {% assign navLinks = 0 %}
-            {% for item in site.data.navigation.links %}
-              {% if item.url != page.url %}
-                {% increment navLinks %}
-                {% capture mod %}
-                {{ navLinks | modulo 2  }}
-                {% endcapture %}
-            
-                {% case mod %}
-                  {% when 0 %}
+            {%- assign navLinks = 0 -%}
+            {%- for item in site.data.navigation.links -%}
+              {% if item.url != page.url -%}
+                {%- increment navLinks -%}
+                {%- assign mod = navLinks | modulo 2 -%}
+
+                {%- case mod -%}
+                  {%- when 0 -%}
                     <a href="{{ item.url }}" class="zip"><em>{{ item.title }}</em></a>
-                  {% when 1 %}
+                  {%- when 1 -%}
                     <a href="{{ item.url }}" class="tgz"><em>{{ item.title }}</em></a>
-                  {% else %}
+                  {%- else -%}
                     <a href="{{ item.url }}"><em>{{ item.title }}</em></a>
-                {% endcase %}
-              {% endif %}
-            {% endfor %}
+                {%- endcase -%}
+              {%- endif -%}
+            {%- endfor -%}
             
             
             <!--a href="{{ site.custom_link.resume_pdf }}" class="zip"><em>resume</em> .PDF</a-->
