@@ -1,0 +1,10 @@
+links:
+- title: Home
+  url: /index.html
+  version: 1
+- title: Resume
+  url: /pages/resume.html
+  version: 1
+- title: PDF
+  url: /docs/resume.pdf
+  version: 1
