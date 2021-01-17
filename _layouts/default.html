@@ -39,9 +39,15 @@
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
+            {% assign navLinks = 0 %}
             {% for item in site.data.navigation.links %}
               {% if item.url != page.url %}
-                <a href="{{ item.url }}" class="zip"><em>{{ item.title }}</em></a>
+                {% increment navLinks %}
+                {% if navLinks | modulo 2 %}
+                  <a href="{{ item.url }}" class="zip"><em>{{ item.title }}</em></a>
+                {% else %}
+                  <a href="{{ item.url }}" class="tgz"><em>{{ item.title }}</em></a>
+                {% endif %}
               {% endif %}
             {% endfor %}
             
