@@ -1,5 +1,5 @@
 ---
-url: /index.html
+url: /
 ---
 ## Synapse Games, Inc and Kongregate Inc
 
