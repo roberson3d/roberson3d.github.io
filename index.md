@@ -1,6 +1,3 @@
----
-url: /
----
 ## Synapse Games, Inc and Kongregate Inc
 
 **Senior Software Engineer** March '14 - present.
