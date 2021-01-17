@@ -1,10 +1,13 @@
 links:
 - title: Home
+  value: <em>.html</em> home
   url: /index.html
   version: 1
 - title: Resume
+  value: .html <em>resume</em>
   url: /pages/resume.html
   version: 1
 - title: PDF
+  value: .PDF <em>resume</em>
   url: /docs/resume.pdf
   version: 1
