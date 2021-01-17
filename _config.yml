@@ -1,3 +1,6 @@
 theme: jekyll-theme-merlot
-title: Ricky 
+title: Ricky Roberson
 show_downloads: "true"
+custom_link:
+  resume_pdf: "https://roberon3d.github.io/docs/resume.pdf"
+  resume_html: "https://roberon3d.github.io/pages/resume.html"
