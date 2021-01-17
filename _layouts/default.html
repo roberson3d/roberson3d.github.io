@@ -41,14 +41,13 @@
           <span class="inner">
             {%- for item in site.data.navigation.links -%}
               {% if item.url != page.url -%}
-                {%- increment navLinks -%}
-                {%- assign mod = navLinks | modulo: 2 -%}
-            
+                {%- assign mod = mod | plus: 1 | modulo: 2 -%}
+                <!-- {{ item.url }} - {{ page.url }} -->
                 {%- case mod -%}
                   {%- when 0 -%}
-                    <a href="{{ item.url }}" class="zip"><em>{{ item.title }}</em></a>
-                  {%- when 1 -%}
                     <a href="{{ item.url }}" class="tgz"><em>{{ item.title }}</em></a>
+                  {%- when 1 -%}
+                    <a href="{{ item.url }}" class="zip"><em>{{ item.title }}</em></a>
                   {%- else -%}
                     <a href="{{ item.url }}"><em>{{ item.title }}</em></a>
                 {%- endcase -%}
