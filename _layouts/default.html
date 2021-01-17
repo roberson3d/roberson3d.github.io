@@ -39,12 +39,11 @@
       {%- if site.show_downloads -%}
         <section id="downloads">
           <span class="inner">
-            {%- assign navLinks = 0 -%}
             {%- for item in site.data.navigation.links -%}
               {% if item.url != page.url -%}
                 {%- increment navLinks -%}
-                {%- assign mod = navLinks | modulo 2 -%}
-
+                {%- assign mod = navLinks | modulo: 2 -%}
+            
                 {%- case mod -%}
                   {%- when 0 -%}
                     <a href="{{ item.url }}" class="zip"><em>{{ item.title }}</em></a>
