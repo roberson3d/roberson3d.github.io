@@ -38,7 +38,7 @@ Create environment and prop art assets within the stylized 50's modernist world 
 
 ### Visualization Specialist
 **Beckman Institute at University of Illinois**, 6/09 - 8/11.  
-Create scientifically accurate visualizations of anatomical organs of the inner mouth, throat, and head from scientific research into the muscles movement of the soft pallet during speech with scripting and art.
+Create scientifically accurate visualizations with scripting and art of anatomical organs of the inner mouth, throat, and head from scientific research into the muscles movement of the soft pallet during speech.
 
 
 ## EDUCATION

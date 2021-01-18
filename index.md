@@ -1,15 +1,15 @@
 ## Synapse Games, Inc and Kongregate Inc
 
-**Senior Software Engineer** March '14 - present.
+**Senior Client Engineer** March '14 - present.
 
-Engineering responsibilties at Synapse run the gamut once things get in engine (Unity). My tasking included working closely with all departments to: implement new features, UI layout, handle data and communication with server, fix bugs, maintain engine and plugins, update build systems with CI, and improve performance.
+Client engineering responsibilties at Synapse run the gamut for anything related to making the game's front end app. My tasking included working closely with all departments to: implement new features, UI layout, handle data and communication with server, fix bugs, maintain plugins and engine, update build systems CI/CD, and improve performance.
 
 ### TMNT: Mutant Madness
 
 **Hero collection and battler.**
 [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)
 
-TMNT: Mutant Madness builds on the learnings from Rift Heroes. The combat systems were my primary focus in this game and mostly authored myself. Additionally, I manage the our build system and CI tools for this project, implement new features, and build out UI.
+TMNT: Mutant Madness builds on the learnings from Rift Heroes. The combat system was my primary focus in this game and mostly authored myself. Additionally, I manage the our build system and CI/CD tools for this project, implement new features, and build out UI.
 
 ### Rift Heroes
 
@@ -23,7 +23,7 @@ Rift Heroes was the second Synapse project where I was a core engineer. It was a
 **Fantasy collectable card game.**
 [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)
 
-Spellstone was built off of the technology from Synapse's previous CCG, Tyrant Mobile. I was the main engineering responsible for updating, improving, or rebuilding old systems to work within the new design as well as introducing new features to the game.
+Spellstone was built off of the technology from Synapse's previous CCG, Tyrant Unleased. I was the main engineering responsible for updating, improving, or rebuilding old systems to work within the new design as well as introducing new features to the game.
 
 ### Other Titles
 
