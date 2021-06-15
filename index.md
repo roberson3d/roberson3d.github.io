@@ -60,6 +60,14 @@ Art assets including plushes seen in zoo gift shop.
 
 ### Box-O-Zombies
 **Town builder in a Zombie apocalypse.** Unreleased.
+
+Client gameplay and UI.
+
+### Beckman Institute, UIUC
+**Modeling of cleft palate research for surgical tools.**
+
+Created 3D meshes and rigs that could be transformed based on MRI scan data as a prototype for a potential tool for cleft palate surgery. 
+
 -->
 
 ## Depaul University
