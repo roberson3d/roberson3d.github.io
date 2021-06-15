@@ -1,19 +1,19 @@
 ## Synapse Games, Inc and Kongregate Inc
 
-**Senior Client Engineer** March '14 - present.
+**Senior Client Engineer** March 2014 - present.
 
-Client engineering responsibilties at Synapse run the gamut for anything related to making the game's front end app. My tasking included working closely with all departments to: implement new features, UI layout, handle data and communication with server, fix bugs, maintain plugins and engine, update build systems CI/CD, and improve performance.
+Client engineering responsibilties at Synapse run the gamut for anything related to making the game's front end app. My tasking included working closely with all departments to: implement new features, UI layout, combat systems, handle data and communication with server, fix bugs, maintain plugins and engine, update build systems CI/CD, and improve performance.
 
 ### TMNT: Mutant Madness
 
-**Hero collection and battler.**
+**Hero collector RPG.**
 [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)
 
 TMNT: Mutant Madness builds on the learnings from Rift Heroes. The combat system was my primary focus in this game and mostly authored myself. Additionally, I manage the our build system and CI/CD tools for this project, implement new features, and build out UI.
 
 ### Rift Heroes
 
-**Fantasy hero collection with base builder.**
+**Fantasy hero collection with base building.**
 [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)
 
 Rift Heroes was the second Synapse project where I was a core engineer. It was a more experimental for the company, so in addition to feature and UI work, I built a variety of combat prototypes. 
@@ -36,6 +36,7 @@ Spellstone was built off of the technology from Synapse's previous CCG, Tyrant U
 **Tyrant Unleased**: Gritty sci-fi CCG.
 [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
 
+
 <!--
 ## The Amiable
 
@@ -44,9 +45,21 @@ Spellstone was built off of the technology from Synapse's previous CCG, Tyrant U
 ### Tetrapulse
 
 **Co-op**
-[trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
+[trailer&rarr;](https://www.youtube.com/watch?v=AJKtJG7bDME)
 
 While working on this game, I've covered several areas developing the camera system, a plug-in for Xbox controller support, most non-standard shaders, helped with some of the character rigging, various other gameplay scripts, and working on mobile controller support. 
+
+
+## Contracting
+
+### Octodad: Dadliest Catch
+**Secret dad physics sim.**
+[trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
+
+Art assets including plushes seen in zoo gift shop.
+
+### Box-O-Zombies
+**Town builder in a Zombie apocalypse.** Unreleased.
 -->
 
 ## Depaul University
