@@ -23,10 +23,11 @@
 
 ### Senior Client Engineer
 **Kongregate (Synapse Games)**, 3/14-Present
+Built several mobile games including TMNT: Mutant Madness, Rift Heroes, and Spellstone. Responsible for most of the Spellstone client development, combat in Rift and TMNT, a multitude of game screens and UI menus accross all games, as well as maintaining and updating the build systems and processes for all games. 
 
 ### Co-Founder, Developer
 **The Amiable**, 6/13-15.  
-Create a multiply player game, Tetrapulse, in which your health is your ammo. Develop code and visuals for feedback, controller support, and gameplay elements.
+Create a multiplayer player game, Tetrapulse, in which your health is your ammo. Develop code and visuals for feedback, controller support, and gameplay elements.
 
 ### Contract Programmer
 **Eight Bit Studios**, 6/13-10/13.  
