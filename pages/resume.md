@@ -1,4 +1,4 @@
-## SKILLS AND ABILITIES
+## Skills and Abilities
 
 * Strong cross disciplinary abilities in engineering and art
 * Thinking creatively to resolve challenges and limitations
@@ -8,7 +8,7 @@
 * Working with minimum supervision, individually, and collaboratively
 
 
-## TECHNICAL COMPETENCIES
+## Technical Competencies
 
 * Unity
 * C#, C++, C
@@ -19,30 +19,30 @@
 * Unity3D, XNA, UDK
 
 
-## EMPLOYMENT
+## Employment
 
 ### Senior Client Engineer
-**Kongregate (Synapse Games)**, 3/14-Present
+**Kongregate (Synapse Games)**, March 2014 - Present.  
 Built several mobile games including TMNT: Mutant Madness, Rift Heroes, and Spellstone. Responsible for most of the Spellstone client development, combat in Rift and TMNT, a multitude of game screens and UI menus accross all games, as well as maintaining and updating the build systems and processes for all games. 
 
 ### Co-Founder, Developer
-**The Amiable**, 6/13-15.  
+**The Amiable**, June 2013 - 2015.  
 Create a multiplayer player game, Tetrapulse, in which your health is your ammo. Develop code and visuals for feedback, controller support, and gameplay elements.
 
 ### Contract Programmer
-**Eight Bit Studios**, 6/13-10/13.  
+**Eight Bit Studios**, June 2013 - October 2013.  
 Develop code for UI and gameplay elements of the mobile game Box-O-Zombies.
 
 ### Artist Intern
-**Young Horses**, 3/13 - 6/13.  
+**Young Horses**, March 2013 - June 2013.  
 Create environment and prop art assets within the stylized 50's modernist world of Octodad: Dadliest Catch.
 
 ### Visualization Specialist
-**Beckman Institute at University of Illinois**, 6/09 - 8/11.  
+**Beckman Institute at University of Illinois**, June 2009 - August 2011.  
 Create scientifically accurate visualizations with scripting and art of anatomical organs of the inner mouth, throat, and head from scientific research into the muscles movement of the soft pallet during speech.
 
 
-## EDUCATION
+## Education
 
 ### DePaul University
 **Bachelor of Science** 3.85  
