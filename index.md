@@ -27,6 +27,8 @@ Spellstone was built off of the technology from Synapse's previous CCG, Tyrant U
 
 ### Other Titles
 
+**Unannouced Title**
+
 **Castaway Cove**: Idle clicker with hero collection.
 [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
 
