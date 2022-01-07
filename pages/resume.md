@@ -11,12 +11,16 @@
 ## Technical Competencies
 
 * Unity
-* C#, C++, C
+* C#
 * Jenkins
-* Python, MEL
-* Autodesk Maya, Autodesk Mudbox
-* Adobe AfterEffect, Adobe Photoshop
-* Unity3D, XNA, UDK
+* Shell
+
+### Other Tech Used
+* C++, C
+* Python
+* XNA
+* Autodesk Maya, MEL, Mudbox, 
+* Adobe AfterEffect & Photoshop 
 
 
 ## Employment
