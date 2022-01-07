@@ -19,7 +19,7 @@
 * C++, C
 * Python
 * XNA
-* Autodesk Maya, MEL, Mudbox, 
+* Autodesk Maya, MEL, & Mudbox
 * Adobe AfterEffect & Photoshop 
 
 
