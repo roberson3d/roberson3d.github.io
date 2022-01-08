@@ -1,19 +1,17 @@
 ## Skills and Abilities
 
-* Strong cross disciplinary abilities in engineering and art
 * Thinking creatively to resolve challenges and limitations
 * Attentive to visual and technical details
 * Anticipating needs to streamline pipelines and increase productivity
 * Strong multidisciplinary communication skills
+* Cross disciplinary abilities in engineering and art
 * Working with minimum supervision, individually, and collaboratively
 
 
 ## Technical Competencies
 
-* Unity
-* C#
-* Jenkins
-* Shell
+* Unity3d, C#
+* Jenkins, Groovy, Shell
 
 ### Other Tech Used
 * C++, C
@@ -27,7 +25,7 @@
 
 ### Senior Client Engineer
 **Kongregate (Synapse Games)**, March 2014 - Present.  
-Built several mobile games including TMNT: Mutant Madness, Rift Heroes, and Spellstone. Responsible for most of the Spellstone client development, combat in Rift and TMNT, a multitude of game screens and UI menus accross all games, as well as maintaining and updating the build systems and processes for all games. 
+Built several mobile games including TMNT: Mutant Madness, Rift Heroes, and Spellstone. Responsible for most of the Spellstone client development, combat in Rift and TMNT, a multitude of game screens and UI menus accross all games, as well as maintaining and updating the build systems for all games. 
 
 ### Co-Founder, Developer
 **The Amiable**, June 2013 - 2015.  
