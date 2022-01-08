@@ -1,5 +1,3 @@
-#### About Me (he/him)
-
 Welcome! I'm a software developer for video games in the Chicago area.
 
 I appreciate being a contributing member of a team, working autonomously, and collaborating with other disciplines. With a strong multidisciplinary background and abilities, I am able to creatively solve many art and engineering challenges. My skills allow me to float between engineering and tech-art roles where I like gameplay, tools, systems development, UI, build systems & CI, and shaders.
