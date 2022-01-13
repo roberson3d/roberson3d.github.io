@@ -27,7 +27,7 @@ description: |
 
 ## Employment
 
-### Synapse Games, Inc and Kongregate Inc
+### Synapse Games, Inc (acquired by Kongregate Inc October 2018)
 
 **Senior Client Engineer** March 2014 - present.
 
@@ -80,23 +80,17 @@ Spellstone was built off of the technology from Synapse's previous CCG, Tyrant U
 While working on this game, I've covered several areas developing the camera system, a plug-in for Xbox controller support, most non-standard shaders, helped with some of the character rigging, various other gameplay scripts, and working on mobile controller support. 
 -->
 
-### Contracting
+### Eight Bit Studios
+**Contract Programmer**, June 2013 - October 2013.  
+Develop code for UI and gameplay elements of the mobile game Box-O-Zombies.
 
-#### Octodad: Dadliest Catch
-**Secret dad physics sim.**
-[trailer&rarr;](https://www.youtube.com/watch?v=gbY8QGYbzwA)
+### Young Horses
+**Artist Intern**, March 2013 - June 2013.  
+Create environment and prop art assets within the stylized 50's modernist world of Octodad: Dadliest Catch.
 
-Art assets including plushes seen in zoo gift shop.
-
-#### Box-O-Zombies
-**Town builder in a Zombie apocalypse.** Unreleased.
-
-Client gameplay and UI.
-
-#### Beckman Institute, UIUC
-**Modeling of cleft palate research for surgical tools.**
-
-Created 3D meshes and rigs that could be transformed based on MRI scan data as a prototype for a potential tool for cleft palate surgery. 
+### Beckman Institute at University of Illinois
+**Visualization Specialist**, June 2009 - August 2011.  
+Create scientifically accurate visualizations with scripting and art of anatomical organs of the inner mouth, throat, and head from scientific research into the muscles movement of the soft pallet during speech.
 
 ## Education
 
