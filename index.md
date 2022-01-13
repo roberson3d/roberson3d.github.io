@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Ricky Roberson | Portfolio"
 description: |
   Welcome! I'm a software developer for video games in the Chicago area.
