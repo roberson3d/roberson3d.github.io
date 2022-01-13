@@ -1,3 +1,11 @@
+---
+description: "Welcome! I'm a software developer for video games in the Chicago area.
+
+I appreciate being a contributing member of a team, working autonomously, and collaborating with other disciplines. With a strong multidisciplinary background and abilities, I am able to creatively solve many art and engineering challenges. My skills allow me to float between engineering and tech-art roles where I like gameplay, tools, systems development, UI, build systems & CI, and shaders.
+
+Outside of programming, I find myself drawn to activities that explore fantastical worlds. Opening a fantasy or sci-fi novel will consume all my free time until I get to that final page. Strategizing through a board game is a favorite way to hang out with friends. Crafting hand drawn maps, painting mini-figs, link-surfing Wikipedia for background ideas, and managing a relational database of all my session notes gets me through the TTRPG downtime."
+---
+
 Welcome! I'm a software developer for video games in the Chicago area.
 
 I appreciate being a contributing member of a team, working autonomously, and collaborating with other disciplines. With a strong multidisciplinary background and abilities, I am able to creatively solve many art and engineering challenges. My skills allow me to float between engineering and tech-art roles where I like gameplay, tools, systems development, UI, build systems & CI, and shaders.
