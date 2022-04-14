@@ -63,7 +63,7 @@ The client engineering responsibilities run the gamut for anything related to ma
   * Update CI/CD build systems
   * Improve performance
 
-* **TMNT: Mutant Madness** [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
+**TMNT: Mutant Madness** [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
 <!--**Hero collector RPG.**-->
   * Primary author of the combat system
   * Managed build pipeline and CI/CD tools via Jenkins
@@ -71,18 +71,18 @@ The client engineering responsibilities run the gamut for anything related to ma
   * Iterated on many systems to modify UI, enhance performance, and debug gameplay issues. 
 <!--TMNT: Mutant Madness builds on the learnings from Rift Heroes. The combat system was my primary focus in this game and mostly authored myself. Additionally, I manage the our build system and CI/CD tools, implement new features, and build out UI.-->
 
-* **Rift Heroes** [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
+**Rift Heroes** [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
 <!--**Fantasy hero collection with base building.**-->
   * Prototyped and championed several combat systems, including the final design.
 <!--Rift Heroes was the second Synapse project where I was a core engineer. It was a more experimental for the company, so in addition to feature and UI work, I built a variety of combat prototypes.-->
 
-* **Spellstone** [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
+**Spellstone** [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
 <!--**Fantasy collectable card game.**-->
   * Updated, improved, and rebuilt outdated systems from previous title to match a new fantasy style
   * Implemented the studio's only live PvP mode, allowing players to play against another player in real time
 <!--Spellstone built off of the technology from Synapse's previous CCG, Tyrant Unleased. I was the main engineering responsible for updating, improving, or rebuilding old systems to work within the new design as well as introducing new features to the game.-->
 
-* **Other Titles**<br>
+**Other Titles**<br>
 Unannouced Project<br>
 *Animation Throwdown* [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
 <!--**Idle clicker with hero collection.**--><br>
