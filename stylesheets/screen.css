@@ -436,7 +436,7 @@ hr {
   outline: none;
   height: 18px;
   background: transparent url('../images/hr.jpg') center center repeat-x;
-  margin: 0 0 20px;
+  margin: 0 0 8px;
 }
 
 code {
