@@ -17,6 +17,8 @@ brief: |
   - Pursue self-motivated ideas
 ---
 
+# Resumé
+
 ## Strengths
 
 * Creatively resolve challenges
@@ -58,20 +60,17 @@ Responsible for building the front-end app for each game. I work in collaboratio
   * Created and managed build pipeline and CI/CD tools via Jenkins
 
 **TMNT: Mutant Madness** (2020) [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
-Play 4.4, App Store 4.7
   * Architected and authored the combat system. UI, AI, skill system, visual effects, and other game play elements
   * Implemented several features including the client storefront, a tower climb mode, and a survival mode.
   * Iterated on many systems to modify UI, enhance performance, and debug gameplay issues.
   * Created and managed build pipeline and CI/CD tools via Jenkins.
 
 **Rift Heroes** (2018) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
-Play 3.5, App Store 4.7
   * Prototyped and championed several combat systems. 
   * Further developed the final chosen design into a fully featured combat system.
   * Created and managed build pipeline and CI/CD tools via Jenkins.
 
 **Spellstone** (2015) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
-Play 4.4, App Store 4.5
   * Improved the UI/UX from previous title by introducing fluid and natural touch screen controls.
   * Updated features and UI from previous titles to match a new fantasy style.
   * Rebuilt outdated systems with reusable components to improve stability.

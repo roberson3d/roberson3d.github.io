@@ -66,6 +66,7 @@ Responsible for building the front-end app for each game. I work in collaboratio
 
 **TMNT: Mutant Madness** [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
 <!--**Hero collector RPG.**-->
+<!--Play 4.4, App Store 4.7-->
   * Primary author of the combat system
   * Managed build pipeline and CI/CD tools via Jenkins
   * Implemented several features including the Client Store, Channel 6, and a survival mode.
@@ -74,11 +75,13 @@ Responsible for building the front-end app for each game. I work in collaboratio
 
 **Rift Heroes** [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
 <!--**Fantasy hero collection with base building.**-->
+<!--Play 3.5-->
   * Prototyped and championed several combat systems, including the final design.
 <!--Rift Heroes was the second Synapse project where I was a core engineer. It was a more experimental for the company, so in addition to feature and UI work, I built a variety of combat prototypes.-->
 
 **Spellstone** [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
 <!--**Fantasy collectable card game.**-->
+<!--Play 4.4, App Store 4.5-->
   * Updated, improved, and rebuilt outdated systems from the previous title to match a new fantasy style
   * Implemented the studio's only live PvP mode, allowing players to play against each other in real time
 <!--Spellstone built off of the technology from Synapse's previous CCG, Tyrant Unleased. I was the main engineering responsible for updating, improving, or rebuilding old systems to work within the new design as well as introducing new features to the game.-->
