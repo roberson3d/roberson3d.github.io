@@ -45,29 +45,44 @@ Responsible for building the front-end app for each game. I work in collaboratio
   * UI layout and functionality
   * Combat systems
   * Data and server communication
-  * Bug fixes 
-  * Plugins and engine maintenance
+  * Bug fixes
   * CI/CD build systems improvements
+  * Asset pipeline automation and tools
+  * Plugins and engine maintenance
 
-**TMNT: Mutant Madness** [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
-  * Primary author of the combat system
-  * Managed build pipeline and CI/CD tools via Jenkins
-  * Implemented several features including the Client Store, Channel 6, and a survival mode.
-  * Iterated on many systems to modify UI, enhance performance, and debug gameplay issues. 
+***Unannouced Project*** (2023)
+  * Modularized core systems from previous titles into game independent packages
+  * Assisted design and authored the client combat system
+  * Established asset pipeline guildlines
+  * Developed tools to ensure ease of use and adherence to asset pipeline guidlines
+  * Created and managed build pipeline and CI/CD tools via Jenkins
 
-**Rift Heroes** [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
-  * Prototyped and championed several combat systems, including the final design.
+**TMNT: Mutant Madness** (2020) [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
+Play 4.4, App Store 4.7
+  * Architected and authored the combat system. UI, AI, skill system, visual effects, and other game play elements
+  * Implemented several features including the client storefront, a tower climb mode, and a survival mode.
+  * Iterated on many systems to modify UI, enhance performance, and debug gameplay issues.
+  * Created and managed build pipeline and CI/CD tools via Jenkins.
 
-**Spellstone** [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
-  * Updated, improved, and rebuilt outdated systems from the previous title to match a new fantasy style
-  * Implemented the studio's only live PvP mode, allowing players to play against each other in real time
+**Rift Heroes** (2018) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
+Play 3.5, App Store 4.7
+  * Prototyped and championed several combat systems. 
+  * Further developed the final chosen design into a fully featured combat system.
+  * Created and managed build pipeline and CI/CD tools via Jenkins.
+
+**Spellstone** (2015) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
+Play 4.4, App Store 4.5
+  * Improved the UI/UX from previous title by introducing fluid and natural touch screen controls.
+  * Updated features and UI from previous titles to match a new fantasy style.
+  * Rebuilt outdated systems with reusable components to improve stability.
+  * Implemented the studio's only live PvP mode, allowing players to play against each other in real time.
 
 **Other Titles**<br>
-  * Unannouced Project, releasing 2023<br>
-  * *Animation Throwdown* [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
-  * *Castaway Cove* [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
-  * *Global Assault* [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
-  * *Tyrant Unleased* [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
+  * Unannouced Project, (2023)<br>
+  * *Castaway Cove* (2017) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
+  * *Animation Throwdown* (2016) [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
+  * *Global Assault* (2014) [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
+  * *Tyrant Unleased* (2013) [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
 
 ### Eight Bit Studios
 *Contract Programmer, June 2013 - October 2013*<br>
