@@ -77,7 +77,6 @@ Responsible for building the front-end app for each game. I work in collaboratio
   * Implemented the studio's only live PvP mode, allowing players to play against each other in real time.
 
 **Other Titles**<br>
-  * Unannouced Project, (2023)<br>
   * *Castaway Cove* (2017) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
   * *Animation Throwdown* (2016) [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
   * *Global Assault* (2014) [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
