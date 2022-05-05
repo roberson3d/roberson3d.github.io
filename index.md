@@ -6,9 +6,9 @@ brief: |
 
   **In a team, I'm looking for:**
   - A culture of creative collaboration
-  - Innovative games
+  - Fun and innovative games
   - Sustainable work environment
-  - Interdisciplinary
+  - Interdisciplinary 
 
   **In my ideal role, I'll be able to:**
   - Work collaboratively with cross-disciplinary teams
@@ -55,8 +55,8 @@ Responsible for building the front-end app for each game. I work in collaboratio
 ***Unannouced Project*** (2023)
   * Modularized core systems from previous titles into game independent packages
   * Assisted design and authored the client combat system
-  * Established asset pipeline guildlines
-  * Developed tools to ensure ease of use and adherence to asset pipeline guidlines
+  * Established asset pipeline guidelines 
+  * Developed tools to ensure ease of use and adherence to asset pipeline guidelines
   * Created and managed build pipeline and CI/CD tools via Jenkins
 
 **TMNT: Mutant Madness** (2020) [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
@@ -80,7 +80,7 @@ Responsible for building the front-end app for each game. I work in collaboratio
   * *Castaway Cove* (2017) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
   * *Animation Throwdown* (2016) [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
   * *Global Assault* (2014) [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
-  * *Tyrant Unleased* (2013) [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
+  * *Tyrant Unleashed* (2013) [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
 
 ### Eight Bit Studios
 *Contract Programmer, June 2013 - October 2013*<br>
