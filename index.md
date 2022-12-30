@@ -4,17 +4,17 @@ title: "Ricky Roberson | Portfolio"
 brief: |
   <h4>Hey! I am a video game engineer located in Chicago, IL. I'm looking to work with a small team of great people to conceive of and build fun games.</h4>
 
-  **In a team, I'm looking for:**
-  - A culture of creative collaboration
-  - Fun and innovative games
-  - Sustainable work environment
-  - Interdisciplinary 
-
   **In my ideal role, I'll be able to:**
   - Work collaboratively with cross-disciplinary teams
   - Create unique systems and games
   - Share ownership in creative decisions
   - Pursue self-motivated ideas
+
+  **In a team, I'm looking for:**
+  - A culture of creative collaboration
+  - Fun and innovative games
+  - Sustainable work environment
+  - Opportunities for professional development
 ---
 
 # Resumé
