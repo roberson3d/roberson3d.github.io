@@ -52,7 +52,7 @@ Responsible for building the front-end app for each game. I work in collaboratio
   * Asset pipeline automation and tools
   * Plugins and engine maintenance
 
-***Unannounced Project*** (2023)
+***Unannounced Project***
   * Modularized core systems from previous titles into game independent packages
   * Assisted design and authored the client combat system
   * Established asset pipeline guidelines 
