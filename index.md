@@ -2,79 +2,54 @@
 layout: default
 title: "Ricky Roberson | Portfolio"
 brief: |
-  <h4>Hey! I am a video game engineer located in Chicago, IL. I'm looking to work with a small team of great people to conceive of and build fun games.</h4>
-
-  **In my ideal role, I'll be able to:**
-  - Work collaboratively with cross-disciplinary teams
-  - Create unique systems and games
-  - Share ownership in creative decisions
-  - Pursue self-motivated ideas
-
-  **In a team, I'm looking for:**
-  - A culture of creative collaboration
-  - Fun and innovative games
-  - Sustainable work environment
-  - Opportunities for professional development
+  <h4>As a video game engineer based in Chicago, IL, I am passionate about working with a small team of talented individuals to conceive and develop fun games. In my ideal role, I thrive in a collaborative environment where I can contribute to unique systems and games, share ownership in creative decisions, and pursue self-motivated ideas. I value a culture of creative collaboration, opportunities for professional development, and a sustainable work environment. I am excited to be part of a team that creates innovative games and brings joy to players worldwide.<h4>
 ---
 
 # Resumé
 
 ## Strengths
 
-* Creatively resolve challenges
-* Attentive to technical and visual details
-* Strong multidisciplinary communication skills
-* Deep experience in the intersection of engineering and tech art 
-* Anticipate pipeline needs to streamline productivity
-* Work under minimal supervision, both individually and collaboratively
+* Proven ability to creatively solve complex technical challenges
+* Attentive to technical and visual details to ensure high-quality game development
+* Strong multidisciplinary communication skills to effectively collaborate with cross-functional teams
+* Deep expertise in engineering and tech art, with a focus on creating efficient pipelines
+* Self-motivated and able to work both independently and collaboratively
 
+## Skills
 
-## Languages & Softwares
-
-* Unity3d, C#
-* Jenkins, Groovy, Shell
-* C++, C
-* Python
-* Autodesk Maya, MEL, & Mudbox
+* Over a decade of experience in game development using Unity engine and programming in C#.
+* Shipped and supported multiple titles for various platforms including iOS, Android, Mac & Windows via Steam, and WebGL.
+* Proficient in various game programming fields such as implementing gameplay features, UI/UX, client/server communication, animation, and tools.
+* Strong experience in creating CI/CD build systems and content pipeline using Jenkins, Groovy, and Shell.
 
 ## Experience
 
-### Synapse Games, Inc *(acquired by Kongregate, Inc. in October 2018)*
+### Kongregate, Inc. *(formerly Synapse Games, Inc prior to aquisition in October 2018)*
 
 *Senior Client Engineer, March 2014 - present*<br>
-Responsible for building the front-end app for each game. I work in collaboration with all departments to implement: 
-  * New gameplay features
-  * UI layout and functionality
-  * Combat systems
-  * Data and server communication
-  * Bug fixes
-  * CI/CD build systems improvements
-  * Asset pipeline automation and tools
-  * Plugins and engine maintenance
+I am responsible for building the front-end app for each game, working in close collaboration with all departments to implement various features and systems. This includes developing new gameplay features and combat systems, designing and implementing UI layout and functionality, handling communication with server authorative APIs, and provide post-release support and maintenance for live games. I also contribute to the development of CI/CD build pipelines and improvements, automating content pipeline and tools for efficient, and ensure plugins and engine maintenance. My role involves working closely with cross-functional teams and supporting the entire game development lifecycle to deliver high-quality, engaging games to players.
 
 ***Unannounced Project***
-  * Modularized core systems from previous titles into game independent packages
-  * Assisted design and authored the client combat system
-  * Established asset pipeline guidelines 
-  * Developed tools to ensure ease of use and adherence to asset pipeline guidelines
-  * Created and managed build pipeline and CI/CD tools via Jenkins
+  * Assisted in designing and authored the client end combat system, contributing to the development of game play elements.
+  * Modularized core systems from previous titles into game independent packages, improving code reusability and maintainability.
+  * Developed tools and guidelines for asset pipeline, establishing reliability in the content pipeline process
 
 **TMNT: Mutant Madness** (2020) [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
-  * Architected and authored the combat system. UI, AI, skill system, visual effects, and other game play elements
-  * Implemented several features including the client storefront, a tower climb mode, and a survival mode.
-  * Iterated on many systems to modify UI, enhance performance, and debug gameplay issues.
-  * Created and managed build pipeline and CI/CD tools via Jenkins.
+  * Architected and authored the combat system, including UI, AI, skill system, and visual effects.
+  * Implemented several features such as the client storefront, tower climb mode, and survival mode, enhancing gameplay experience.
+  * Iterated on systems to modify UI, enhance performance, and debug gameplay issues.
+  * Created and managed build pipeline and CI/CD tools via Jenkins, ensuring smooth development and release processes.
 
 **Rift Heroes** (2018) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
-  * Prototyped and championed several combat systems. 
+  * Prototyped and championed several combat systems, contributing to the final design of the fully featured combat system.
   * Further developed the final chosen design into a fully featured combat system.
-  * Created and managed build pipeline and CI/CD tools via Jenkins.
+  * Created and managed build pipeline and CI/CD tools via Jenkins, facilitating efficient development and deployment workflows.
 
 **Spellstone** (2015) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
-  * Improved the UI/UX from previous title by introducing fluid and natural touch screen controls.
-  * Updated features and UI from previous titles to match a new fantasy style.
-  * Rebuilt outdated systems with reusable components to improve stability.
-  * Implemented the studio's only live PvP mode, allowing players to play against each other in real time.
+  * Improved the UI/UX from previous titles by introducing fluid and natural touch screen controls, enhancing user experience.
+  * Updated features and UI from previous titles to match a new fantasy style, improving visual aesthetics.
+  * Rebuilt outdated systems with reusable components, increasing stability and maintainability.
+  * Implemented the studio's only live PvP mode, allowing players to engage in real-time player versus player battles.
 
 **Other Titles**<br>
   * *Castaway Cove* (2017) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
