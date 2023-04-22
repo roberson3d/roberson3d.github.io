@@ -2,35 +2,36 @@
 layout: default
 title: "Ricky Roberson | Portfolio"
 brief: |
-  <h4>As a video game engineer based in Chicago, IL, I am passionate about working with a small team of talented individuals to conceive and develop fun games. In my ideal role, I thrive in a collaborative environment where I can contribute to unique systems and games, share ownership in creative decisions, and pursue self-motivated ideas. I value a culture of creative collaboration, opportunities for professional development, and a sustainable work environment. I am excited to be part of a team that creates innovative games and brings joy to players worldwide.<h4>
+  <p>As a video game engineer based in Chicago, IL, I am passionate about working with a small team of talented individuals to conceive and develop fun games.</p>
+  <p>In my ideal role, I thrive in a collaborative environment where I can contribute to unique systems and games, share ownership in creative decisions, and pursue self-motivated ideas.</p>
+  <p>I value a culture of creative collaboration, opportunities for professional development, and a sustainable work environment. I am excited to be part of a team that creates innovative games and brings joy to players worldwide.</p>
 ---
 
 # Resumé
 
-## Strengths
+## Summary
 
-* Proven ability to creatively solve complex technical challenges
-* Attentive to technical and visual details to ensure high-quality game development
-* Strong multidisciplinary communication skills to effectively collaborate with cross-functional teams
-* Deep expertise in engineering and tech art, with a focus on creating efficient pipelines
-* Self-motivated and able to work both independently and collaboratively
+Highly skilled and creative game developer with over a decade of experience in Unity engine and C# programming. Proven ability to creatively solve complex technical challenges, with a focus on high-quality game development and efficient pipelines. Strong multidisciplinary communication skills and ability to work independently or collaboratively. Experience in shipping and supporting multiple titles for various platforms.
 
 ## Skills
 
-* Over a decade of experience in game development using Unity engine and programming in C#.
-* Shipped and supported multiple titles for various platforms including iOS, Android, Mac & Windows via Steam, and WebGL.
-* Proficient in various game programming fields such as implementing gameplay features, UI/UX, client/server communication, animation, and tools.
-* Strong experience in creating CI/CD build systems and content pipeline using Jenkins, Groovy, and Shell.
+* **Game Development:** Unity3D engine, C# programming, UI/UX, gameplay, client/server communication, animation, tools development.
+* **Build Systems:** CI/CD pipelines, Jenkins, Groovy, Shell scripting.
+* **Platforms:** iOS, Android, Mac, Windows, Steam, WebGL.
 
 ## Experience
 
-### Kongregate, Inc. *(formerly Synapse Games, Inc prior to aquisition in October 2018)*
+### Kongregate, Inc. *(Synapse Games, Inc prior to October 2018 acquisition)*
 
 *Senior Client Engineer, March 2014 - present*<br>
-I am responsible for building the front-end app for each game, working in close collaboration with all departments to implement various features and systems. This includes developing new gameplay features and combat systems, designing and implementing UI layout and functionality, handling communication with server authorative APIs, and provide post-release support and maintenance for live games. I also contribute to the development of CI/CD build pipelines and improvements, automating content pipeline and tools for efficient, and ensure plugins and engine maintenance. My role involves working closely with cross-functional teams and supporting the entire game development lifecycle to deliver high-quality, engaging games to players.
+  * Developed front-end app for multiple games, collaborating with cross-functional teams to implement various features and systems, including gameplay features, UI/UX, and server communication.
+  * Architected and authored combat systems, UI, AI, skill system, and visual effects for multiple titles, enhancing gameplay experience.
+  * Implemented and managed CI/CD build pipelines, ensuring smooth development and release processes.
+  * Modularized core systems into game-independent packages, improving code reusability and maintainability.
+  * Created tools and guidelines for asset pipeline, establishing reliability in the content pipeline process.
 
 ***Unannounced Project***
-  * Assisted in designing and authored the client end combat system, contributing to the development of game play elements.
+  * Designed and authored the client end combat system, contributing to the development of game play elements.
   * Modularized core systems from previous titles into game independent packages, improving code reusability and maintainability.
   * Developed tools and guidelines for asset pipeline, establishing reliability in the content pipeline process
 
@@ -71,7 +72,7 @@ Created scientifically accurate visualizations of anatomical organs of the inner
 
 ## Education
 
-### Depaul University
+### DePaul University
 
 *B.S. Computer Game Development<br> Class of 2013*
 
