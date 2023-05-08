@@ -11,12 +11,12 @@ brief: |
 
 ## Summary
 
-Highly skilled and creative game developer with over a decade of experience in Unity engine and C# programming. Proven ability to creatively solve complex technical challenges, with a focus on high-quality game development and efficient pipelines. Strong multidisciplinary communication skills and ability to work independently or collaboratively. Experience in shipping and supporting multiple titles for various platforms.
+Highly skilled and creative game developer with a decade of experience, specializing in Unity engine and C# programming. Creatively solves complex technical challenges while focusing on efficient pipelines and high-quality game development. Strong multidisciplinary communication skills and ability to work both independently and collaboratively. Experience in shipping multiple titles for various platforms and supporting titles through live service.
 
 ## Skills
 
-* **Game Development:** Unity3D engine, C# programming, UI/UX, gameplay, client/server communication, animation, tools development.
-* **Build Systems:** CI/CD pipelines, Jenkins, Groovy, Shell scripting.
+* **Game Development:** Unity3D, C#, UI/UX, gameplay, tools development, RESTful client/server communication.
+* **Build Systems:** CI/CD pipelines, Jenkins, Groovy, Shell scripting, Git, Subversion, Perforce.
 * **Platforms:** iOS, Android, Mac, Windows, Steam, WebGL.
 
 ## Experience
@@ -24,11 +24,13 @@ Highly skilled and creative game developer with over a decade of experience in U
 ### Kongregate, Inc. *(Synapse Games, Inc prior to October 2018 acquisition)*
 
 *Senior Client Engineer, March 2014 - present*<br>
-  * Developed front-end app for multiple games, collaborating with cross-functional teams to implement various features and systems, including gameplay features, UI/UX, and server communication.
+  * Developed a front-end app for multiple games in collaboration with a cross-functional team.
+  * Implemented various gameplay features, UI/UX, and server communication.
   * Architected and authored combat systems, UI, AI, skill system, and visual effects for multiple titles, enhancing gameplay experience.
   * Implemented and managed CI/CD build pipelines, ensuring smooth development and release processes.
   * Modularized core systems into game-independent packages, improving code reusability and maintainability.
   * Created tools and guidelines for asset pipeline, establishing reliability in the content pipeline process.
+  * Estimated and prioritized tasking in agile project cycles.
 
 ***Unannounced Project***
   * Designed and authored the client end combat system, contributing to the development of game play elements.
@@ -39,7 +41,7 @@ Highly skilled and creative game developer with over a decade of experience in U
   * Architected and authored the combat system, including UI, AI, skill system, and visual effects.
   * Implemented several features such as the client storefront, tower climb mode, and survival mode, enhancing gameplay experience.
   * Iterated on systems to modify UI, enhance performance, and debug gameplay issues.
-  * Created and managed build pipeline and CI/CD tools via Jenkins, ensuring smooth development and release processes.
+  * Improved and managed Jenkins build pipeline, removing manual steps in the  release processes.
 
 **Rift Heroes** (2018) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
   * Prototyped and championed several combat systems, contributing to the final design of the fully featured combat system.
