@@ -23,7 +23,7 @@ Highly skilled and creative game developer with a decade of experience, speciali
 
 ### Kongregate, Inc. *(Synapse Games, Inc prior to October 2018 acquisition)*
 
-*Senior Client Engineer, March 2014 - present*<br>
+*Senior Client Engineer, Feb 2014 - March 2024*<br>
   * Developed a front-end app for multiple games in collaboration with a cross-functional team.
   * Implemented various gameplay features, UI/UX, and server communication.
   * Architected and authored combat systems, UI, AI, skill system, and visual effects for multiple titles, enhancing gameplay experience.
