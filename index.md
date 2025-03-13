@@ -21,6 +21,16 @@ Highly skilled and creative game developer with a decade of experience, speciali
 
 ## Experience
 
+### High Voltage Software, Inc
+
+*Gameplay Engineer, July 2024 - current*<br>
+  * Implemented various gameplay features.
+
+**Dragon Front: Adventures** (TBD) [store&rarr;](https://store.steampowered.com/app/2952180/Dragon_Front_Adventures/)<br>
+  * Built custom analytics pipeline with custom client module, AWS backend, and Graphana dashboard. 
+  * Implemented platform support for achievements.
+  * Developed system for AI to assess and play cards.
+
 ### Kongregate, Inc. *(Synapse Games, Inc prior to October 2018 acquisition)*
 
 *Senior Client Engineer, Feb 2014 - March 2024*<br>
