@@ -15,9 +15,9 @@ Highly skilled and creative game developer with a decade of experience, speciali
 
 ## Skills
 
-* **Game Development:** Unity3D, C#, UI/UX, gameplay, tools development, RESTful client/server communication.
-* **Build Systems:** CI/CD pipelines, Jenkins, Groovy, Shell scripting, Git, Subversion, Perforce.
-* **Platforms:** iOS, Android, Mac, Windows, Steam, WebGL.
+* **Game Development:** Unity3D, Unreal, C#, C++, UI/UX, gameplay, tools development, RESTful client/server communication.
+* **Build Systems:** CI/CD pipelines, Jenkins, TeamCity, Groovy, Shell scripting, Git, Subversion, Perforce.
+* **Platforms:** iOS, Android, Mac, Windows, WebGL, Steam, Epic.
 
 ## Experience
 
@@ -26,7 +26,7 @@ Highly skilled and creative game developer with a decade of experience, speciali
 *Gameplay Engineer, July 2024 - current*<br>
   * Implemented various gameplay features.
 
-**Dragon Front: Adventures** (TBD) [store&rarr;](https://store.steampowered.com/app/2952180/Dragon_Front_Adventures/)<br>
+**Dragon Front: Adventures** (TBD, Unreal) [store&rarr;](https://store.steampowered.com/app/2952180/Dragon_Front_Adventures/)<br>
   * Built custom analytics pipeline with custom client module, AWS backend, and Graphana dashboard. 
   * Implemented platform support for achievements.
   * Developed system for AI to assess and play cards.
@@ -42,37 +42,37 @@ Highly skilled and creative game developer with a decade of experience, speciali
   * Created tools and guidelines for asset pipeline, establishing reliability in the content pipeline process.
   * Estimated and prioritized tasking in agile project cycles.
 
-***Unannounced Project***
+***Unannounced Project*** (unreleased, Unity)
   * Designed and authored the client end combat system, contributing to the development of game play elements.
   * Modularized core systems from previous titles into game independent packages, improving code reusability and maintainability.
   * Developed tools and guidelines for asset pipeline, establishing reliability in the content pipeline process
 
-**TMNT: Mutant Madness** (2020) [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
+**TMNT: Mutant Madness** (2020, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=abf4_cTto00)<br>
   * Architected and authored the combat system, including UI, AI, skill system, and visual effects.
   * Implemented several features such as the client storefront, tower climb mode, and survival mode, enhancing gameplay experience.
   * Iterated on systems to modify UI, enhance performance, and debug gameplay issues.
   * Improved and managed Jenkins build pipeline, removing manual steps in the  release processes.
 
-**Rift Heroes** (2018) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
+**Rift Heroes** (2018, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
   * Prototyped and championed several combat systems, contributing to the final design of the fully featured combat system.
   * Further developed the final chosen design into a fully featured combat system.
   * Created and managed build pipeline and CI/CD tools via Jenkins, facilitating efficient development and deployment workflows.
 
-**Spellstone** (2015) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
+**Spellstone** (2015, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
   * Improved the UI/UX from previous titles by introducing fluid and natural touch screen controls, enhancing user experience.
   * Updated features and UI from previous titles to match a new fantasy style, improving visual aesthetics.
   * Rebuilt outdated systems with reusable components, increasing stability and maintainability.
   * Implemented the studio's only live PvP mode, allowing players to engage in real-time player versus player battles.
 
 **Other Titles**<br>
-  * *Castaway Cove* (2017) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
-  * *Animation Throwdown* (2016) [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
-  * *Global Assault* (2014) [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
-  * *Tyrant Unleashed* (2013) [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
+  * *Castaway Cove* (2017, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
+  * *Animation Throwdown* (2016, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=q1y38Yw_Rbo)
+  * *Global Assault* (2014, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=dypCdF9AoBM)
+  * *Tyrant Unleashed* (2013, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=MZZ7889zT_k)
 
 ### Eight Bit Studios
 *Contract Programmer, June 2013 - October 2013*<br>
-Developed code for UI and gameplay elements of the mobile game *Box-O-Zombies*<br>
+Developed code for UI and gameplay elements of a city building mobile game in Unity.<br>
 
 ### Young Horses
 *Artist Intern, March 2013 - June 2013*<br>
