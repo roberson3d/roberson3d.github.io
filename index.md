@@ -2,7 +2,7 @@
 layout: default
 title: "Ricky Roberson | Portfolio"
 brief: |
-  <p>As a video game engineer based in Chicago, IL, I am passionate about working with a small team of talented individuals to conceive and develop fun games.</p>
+  <p>As a video game engineer based in Chicago, IL, I am passionate about working with talented individuals to conceive and develop fun experiences.</p>
   <p>In my ideal role, I thrive in a collaborative environment where I can contribute to unique systems and games, share ownership in creative decisions, and pursue self-motivated ideas.</p>
   <p>I value a culture of creative collaboration, opportunities for professional development, and a sustainable work environment. I am excited to be part of a team that creates innovative games and brings joy to players worldwide.</p>
 ---
@@ -11,13 +11,14 @@ brief: |
 
 ## Summary
 
-Highly skilled and creative game developer with a decade of experience, specializing in Unity engine and C# programming. Creatively solves complex technical challenges while focusing on efficient pipelines and high-quality game development. Strong multidisciplinary communication skills and ability to work both independently and collaboratively. Experience in shipping multiple titles for various platforms and supporting titles through live service.
+Creative programmer with a decade of application development experience with millions of downloads and 4.5+ star ratings. Solves complex technical challenges while focusing on efficient pipelines and high-quality software engineering. Strong communicator with cross functional departments to facilitate collaborative environments. Proficient in building multi-platform titles on the Unity game engine from prototyping through production and live service support, working extensively on 4 titles and assisting on several more.
 
 ## Skills
 
-* **Game Development:** Unity3D, Unreal, C#, C++, UI/UX, gameplay, tools development, RESTful client/server communication.
-* **Build Systems:** CI/CD pipelines, Jenkins, TeamCity, Groovy, Shell scripting, Git, Subversion, Perforce.
-* **Platforms:** iOS, Android, Mac, Windows, WebGL, Steam, Epic.
+**Proficient in:** C#, Unity, Game Development, Problem Solving, Communication, Interdisciplinary Collaboration, Debugging, SCM (Git/SVN/Perforce), Scripting, Mobile Games, Live Service, Gameplay, UI/UX
+**Experience with:** C++, Unreal, Build Pipeline, Content Pipeline, CI/CD (Jenkins, TeamCity), Code Review, Platforms (Google Play/App Store/Steam), REST/RESTful API, Tool Creation, Confluence, Jira
+**Knowledgeable of:** Python, AWS, Graphics, OpenGL, Shaders, Animation, Modeling
+**Platform Experience:** iOS, Android, Mac, Windows, WebGL, Steam, Epic
 
 ## Experience
 
@@ -34,13 +35,13 @@ Highly skilled and creative game developer with a decade of experience, speciali
 ### Kongregate, Inc. *(Synapse Games, Inc prior to October 2018 acquisition)*
 
 *Senior Client Engineer, Feb 2014 - March 2024*<br>
-  * Developed a front-end app for multiple games in collaboration with a cross-functional team.
+  * Developed a front-end apps for multiple games in collaboration with a cross-functional team.
   * Implemented various gameplay features, UI/UX, and server communication.
   * Architected and authored combat systems, UI, AI, skill system, and visual effects for multiple titles, enhancing gameplay experience.
   * Implemented and managed CI/CD build pipelines, ensuring smooth development and release processes.
-  * Modularized core systems into game-independent packages, improving code reusability and maintainability.
+  * Modularized core systems into game-independent packages, improving reusability as clean, maintainable code..
   * Created tools and guidelines for asset pipeline, establishing reliability in the content pipeline process.
-  * Estimated and prioritized tasking in agile project cycles.
+  * Gathered requirements, estimated, prioritized, and broke down tasking in an agile production process, ensuring timely delivery of features.
 
 ***Unannounced Project*** (unreleased, Unity)
   * Designed and authored the client end combat system, contributing to the development of game play elements.
@@ -53,16 +54,15 @@ Highly skilled and creative game developer with a decade of experience, speciali
   * Iterated on systems to modify UI, enhance performance, and debug gameplay issues.
   * Improved and managed Jenkins build pipeline, removing manual steps in the  release processes.
 
-**Rift Heroes** (2018, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
-  * Prototyped and championed several combat systems, contributing to the final design of the fully featured combat system.
-  * Further developed the final chosen design into a fully featured combat system.
+**Rift Heroes** (2018) [trailer&rarr;](https://www.youtube.com/watch?v=vLtrtsnP77A)<br>
+  * Prototyped and championed several combat systems, directly contributing to the chosen design.
+  * Further refined the final chosen design into a fully featured combat system.
   * Created and managed build pipeline and CI/CD tools via Jenkins, facilitating efficient development and deployment workflows.
 
-**Spellstone** (2015, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
-  * Improved the UI/UX from previous titles by introducing fluid and natural touch screen controls, enhancing user experience.
-  * Updated features and UI from previous titles to match a new fantasy style, improving visual aesthetics.
+**Spellstone** (2015) [trailer&rarr;](https://www.youtube.com/watch?v=-RbpLFSfie4)<br>
+  * Improved the UI/UX from previous titles by introducing fluid and natural touch screen controls, enhancing user experience and maintainability.
   * Rebuilt outdated systems with reusable components, increasing stability and maintainability.
-  * Implemented the studio's only live PvP mode, allowing players to engage in real-time player versus player battles.
+  * Implemented the studio's only live PvP mode, allowing players to engage in real-time player versus player battles within a RESTful API design.
 
 **Other Titles**<br>
   * *Castaway Cove* (2017, Unity) [trailer&rarr;](https://www.youtube.com/watch?v=vSJknYiFBAo)
