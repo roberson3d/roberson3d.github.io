@@ -11,12 +11,12 @@ brief: |
 
 ## Summary
 
-Creative programmer with a decade of application development experience with millions of downloads and 4.5+ star ratings. Solves complex technical challenges while focusing on efficient pipelines and high-quality software engineering. Strong communicator with cross functional departments to facilitate collaborative environments. Proficient in building multi-platform titles on the Unity game engine from prototyping through production and live service support, working extensively on 4 titles and assisting on several more.
+Creative programmer with a decade of application development experience with millions of downloads and 4.5+ star ratings. Solves complex technical challenges while focusing on efficient pipelines and high-quality software engineering. Strong communicator with cross functional departments to facilitate collaborative environments. Experienced in building multi-platform titles with multiple game engine from prototyping through production and live service support, working extensively on 5 titles and assisting on several more.
 
 ## Skills
 
-**Proficient in:** C#, Unity, Game Development, Problem Solving, Communication, Interdisciplinary Collaboration, Debugging, SCM (Git/SVN/Perforce), Scripting, Mobile Games, Live Service, Gameplay, UI/UX
-**Experience with:** C++, Unreal, Build Pipeline, Content Pipeline, CI/CD (Jenkins, TeamCity), Code Review, Platforms (Google Play/App Store/Steam), REST/RESTful API, Tool Creation, Confluence, Jira
+**Proficient in:** C#, Unity, Game Development, Problem Solving, Communication, Interdisciplinary Collaboration, Debugging, SCM (Git/Perforce/SVN), Scripting, Mobile Games, Live Service, Gameplay, UI/UX
+**Experience with:** C++, Unreal, Build Pipeline, Content Pipeline, CI/CD (Jenkins, TeamCity), Code Review, Platforms (Google Play/App Store/Steam/Epic), REST/RESTful API, Tool Creation, Confluence, Jira
 **Knowledgeable of:** Python, AWS, Graphics, OpenGL, Shaders, Animation, Modeling
 **Platform Experience:** iOS, Android, Mac, Windows, WebGL, Steam, Epic
 
@@ -25,17 +25,22 @@ Creative programmer with a decade of application development experience with mil
 ### High Voltage Software, Inc
 
 *Gameplay Engineer, July 2024 - current*<br>
-  * Implemented various gameplay features.
+  * Implemented various gameplay features in Unreal Engine.
 
-**Dragon Front: Adventures** (TBD, Unreal) [store&rarr;](https://store.steampowered.com/app/2952180/Dragon_Front_Adventures/)<br>
+***Unannounced Project*** (unannounced, Unreal)
+  * Investigate and document new technologies for foundation of new title's open world maps. 
+
+**Dragon Front: Adventures** (2025, Unreal) [store&rarr;](https://store.steampowered.com/app/2952180/Dragon_Front_Adventures/)<br>
   * Built custom analytics pipeline with custom client module, AWS backend, and Graphana dashboard. 
-  * Implemented platform support for achievements.
+  * Implemented platform support for achievements for Steam and Epic stores.
   * Developed system for AI to assess and play cards.
+  * Update and manage build CI/CD build pipelines.
+  * Optimize game performance for Steam Deck.
 
 ### Kongregate, Inc. *(Synapse Games, Inc prior to October 2018 acquisition)*
 
 *Senior Client Engineer, Feb 2014 - March 2024*<br>
-  * Developed a front-end apps for multiple games in collaboration with a cross-functional team.
+  * Developed the front-end app for multiple games in collaboration with a cross-functional team.
   * Implemented various gameplay features, UI/UX, and server communication.
   * Architected and authored combat systems, UI, AI, skill system, and visual effects for multiple titles, enhancing gameplay experience.
   * Implemented and managed CI/CD build pipelines, ensuring smooth development and release processes.
