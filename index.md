@@ -15,10 +15,10 @@ Creative programmer with a decade of application development experience with mil
 
 ## Skills
 
-**Proficient in:** C#, Unity, Game Development, Problem Solving, Communication, Interdisciplinary Collaboration, Debugging, SCM (Git/Perforce/SVN), Scripting, Mobile Games, Live Service, Gameplay, UI/UX
-**Experience with:** C++, Unreal, Build Pipeline, Content Pipeline, CI/CD (Jenkins, TeamCity), Code Review, Platforms (Google Play/App Store/Steam/Epic), REST/RESTful API, Tool Creation, Confluence, Jira
-**Knowledgeable of:** Python, AWS, Graphics, OpenGL, Shaders, Animation, Modeling
-**Platform Experience:** iOS, Android, Mac, Windows, WebGL, Steam, Epic
+**Proficient in:** C#, Unity, Game Development, Problem Solving, Communication, Interdisciplinary Collaboration, Debugging, SCM (Git/Perforce/SVN), Scripting, Mobile Games, Live Service, Gameplay, UI/UX<br>
+**Experience with:** C++, Unreal, Build Pipeline, Content Pipeline, CI/CD (Jenkins, TeamCity), Code Review, Platforms (Google Play/App Store/Steam/Epic), REST/RESTful API, Tool Creation, Confluence, Jira<br>
+**Knowledgeable of:** Python, AWS, Graphics, OpenGL, Shaders, Animation, Modeling<br>
+**Platform Experience:** iOS, Android, Mac, Windows, WebGL, Steam, Epic<br>
 
 ## Experience
 
